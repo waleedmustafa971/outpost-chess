@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://outpost-chess-alpha.vercel.app/sitemap.xml

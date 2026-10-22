@@ -2,6 +2,8 @@
 
 A clean, responsive landing page for Outpost, the offline Android chess companion created by Waleed.
 
+**Live website:** https://outpost-chess-alpha.vercel.app
+
 ## The app
 
 Play against the computer, solve rated puzzles, study 80 lessons, explore 3,865 opening lines, review games and practise your mistakes. Import public Chess.com/Lichess games or PGN/FEN, customise the board, and back up your progress.
