@@ -1,0 +1,8 @@
+{
+    "version":  "1.0.0",
+    "architecture":  "arm64-v8a",
+    "sha256":  "a5b8705a8661a8cb7ebcf7dd0852d69f0eeffda29ea5091f4f95c6174e996fb6",
+    "sizeBytes":  84982183,
+    "minAndroid":  "10",
+    "url":  "https://github.com/waleedmustafa971/outpost-chess/releases/latest/download/outpost-1.0.0-android-arm64.apk"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "outpost-chess",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The official Outpost Android chess landing page, created by Waleed.",
+  "scripts": { "dev": "node server.mjs", "test": "node tests/site.mjs" },
+  "devDependencies": { "playwright": "^1.58.0" }
+}
